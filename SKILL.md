@@ -22,7 +22,7 @@ If insufficient info is provided, ask ONE concise clarifying question before pro
 
 ### Contact Info
 | Field | Priority | Sources |
-|-------|----------|--------|
+|-------|----------|----------|
 | Name | Required | Apollo, Exa, Company site |
 | Email | Critical | Apollo, Exa, Perplexity, Company site |
 | Phone | High | Apollo, Exa, Company site |
@@ -30,7 +30,7 @@ If insufficient info is provided, ask ONE concise clarifying question before pro
 
 ### Company Info
 | Field | Priority | Sources |
-|-------|----------|--------|
+|-------|----------|----------|
 | Marketing Spend (approx) | High | Perplexity, Exa, Industry reports |
 | # of Producers | High | Apollo, Company site, Exa |
 
